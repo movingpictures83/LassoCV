@@ -1,0 +1,2 @@
+Prefix plugins/LassoCV/example/
+Plugin LassoCV inputfile input.csv outputfile none
