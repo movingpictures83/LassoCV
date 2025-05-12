@@ -23,8 +23,6 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: LassoCV
-/usr/local/lib64/python3.6/site-packages/sklearn/linear_model/_coordinate_descent.py:531: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 0.0179757528409041, tolerance: 0.0144953679491
-  positive)
 Cocain_Use          0.0
 lab_age             0.0
 agr_birth_gender    0.0
